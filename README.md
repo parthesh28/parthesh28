@@ -6,8 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         18 mins               ██████████████▓░░░░░░░░░░   58.46 %
-TypeScript   13 mins               ██████████▒░░░░░░░░░░░░░░   41.54 %
+Rust         18 mins               ██████████████▓░░░░░░░░░░   58.42 %
+TypeScript   13 mins               ██████████▒░░░░░░░░░░░░░░   41.58 %
 ```
 
 <!--END_SECTION:waka-->
