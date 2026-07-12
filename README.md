@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        25 hrs 53 mins        █████████████████████▒░░░   85.09 %
-Markdown          1 hr 21 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Other             1 hr 8 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Java Properties   37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Groovy            20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+TypeScript        22 hrs 18 mins        █████████████████████▓░░░   86.84 %
+Markdown          1 hr 1 min            █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Java Properties   37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Other             36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Groovy            20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
