@@ -6,7 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other   0 secs                █████████████████████▒░░░   85.71 %
+TeX     0 secs                ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
 ```
 
 <!--END_SECTION:waka-->
